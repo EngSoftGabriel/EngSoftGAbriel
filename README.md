@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Gabriel Almeida</h1>
+<h1 align="center">Olá, me chamo Gabriel Almeida</h1>
 <h3 align="center">Sou Engenheiro de Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engsoftgabriel&label=Profile%20views&color=0e75b6&style=flat" alt="engsoftgabriel" /> </p>
